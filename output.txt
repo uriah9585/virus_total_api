@@ -1,0 +1,4 @@
+Below is the identified malicious file.
+
+HASH - 7896b9b34bdbedbe7bdc6d446ecb09d5 - is malicious. count:37
+HASH - 99017f6eebbac24f351415dd410d522d - is malicious. count:50
