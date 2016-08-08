@@ -1,5 +1,13 @@
 # virus_total_api
 using the api from virus total for scanning hashes
+write the results by anti-virus priority:
+	1.BitDefender
+	2.Kaspersky
+	3.Webroot
+	4.McAfee
+	5.ESET
+	6.other
+
 
 #Information
 NOTE1: The script wrote in python.
